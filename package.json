@@ -1,0 +1,12 @@
+{
+  "name": "ReadOnlyDocs",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "plugin-error": "^1.0.1"
+  },
+  "dependencies": {}
+}

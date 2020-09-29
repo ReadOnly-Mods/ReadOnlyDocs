@@ -1,12 +1,9 @@
 api_key_env: CROWDIN_API_KEY
 project_identifier: readonly-docs
 base_path: .
-
 files:
-  - source: '/build/locale/**/*.pot'
-    translation: '/locale/%locale_with_underscore%/LC_MESSAGES/**/%file_name%.po'
-
+  - source: /build/locale/**/*.pot
+    translation: /locale/%locale_with_underscore%/LC_MESSAGES/**/%file_name%.po
     languages_mapping:
       locale_with_underscore:
-        # Pseudo-language used for In-Context Localization
         lol: translate

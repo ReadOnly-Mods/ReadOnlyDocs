@@ -12,7 +12,7 @@ Default Configuation File
 
 This configuration file was generated using GalacticTweaks-1.2.0 (Forge 2847):
 
-.. code-block:: guess
+.. code-block:: INI
 
 	# Configuration file
 

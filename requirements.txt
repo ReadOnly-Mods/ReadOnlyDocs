@@ -1,4 +1,4 @@
 sphinx
 sphinx-intl
 sphinx-JDLinker
-readonly_docs_theme==2.0.0
+readonly_docs_theme==2.2.0

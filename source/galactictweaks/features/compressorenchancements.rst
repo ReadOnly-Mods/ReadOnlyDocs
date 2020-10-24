@@ -9,7 +9,7 @@ For reason's unknown. The Galacticraft Compressor & Advanced Compressor do not r
 Without Compressor Enhancements
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. code-block:: guess
+.. code-block:: INI
 
 	compressor-enhancement {
 	    # Set to true if you want to register Compressor Fixes
@@ -36,7 +36,7 @@ With Compressor Enhancements
 
 Now i have enabled the Compressor feature after closing Minecraft and will now restart
 
-.. code-block:: guess
+.. code-block:: INI
 
 	compressor-enhancement {
 	    # Set to true if you want to register Compressor Fixes

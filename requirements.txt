@@ -1,4 +1,4 @@
-sphinx==1.8.5
-sphinx-intl==1.0.0
-sphinx-JDLinker==1.3.1
-readonly_docs_theme==1.1.0
+sphinx
+sphinx-intl
+sphinx-JDLinker
+readonly_docs_theme==2.0.0
